@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {
+  .card {
+    max-width: 100%;
+  }
+}
+
+.card {
+  margin: 1rem auto;
+  border-radius: 6px;
+  background-color: white;
+  max-width: 37rem;
+}
